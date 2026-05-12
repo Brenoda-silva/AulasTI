@@ -1,0 +1,45 @@
+1:
+200ok
+100
+
+2:
+sunt aut facere repellat provident occaecati excepturi optio reprehenderit
+
+3:
+Nome curso
+
+4:
+201created
+
+5:
+{
+    "userId": 1,
+    "id": 1,
+    "title": "TESTE",
+    "body": "Testando"
+}
+
+{
+    "userId": 1,
+    "id": 1,
+    "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+    "body": "Testando33"
+}
+
+6:
+{}
+
+7:
+cep	49680-000
+logradouro	
+complemento	
+unidade	
+bairro	
+localidade	Nossa Senhora da Glória
+uf	SE
+estado	Sergipe
+regiao	Nordeste
+ibge	2804508
+gia	
+ddd	79
+siafi	3189
